@@ -14,7 +14,8 @@ dependencies:
   flutter:
     sdk: flutter
   firebase_core: ^1.0.0
-  firebase_analytics_web: ^0.2.0
+  firebase_analytics_web:
+    git: https://github.com/tamirrab/firebase_analytics_web.git
   firebase_analytics_platform_interface: ^1.1.0
 dev_dependencies:
   pedantic: ^1.8.0
